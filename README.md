@@ -1,1 +1,1 @@
-# PDC
+# Parallel and Distributed computing
